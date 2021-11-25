@@ -1,6 +1,6 @@
-## Olá! Eu sou o Luciano Brito
+## Hello! I'm Luciano Brito
 
-### Seja bem-vindo!!!
+### Welcome!!!
 
 <div>
     <a href="https://github.com/lucianobritodev">
@@ -26,31 +26,27 @@
 
 ##
 
-<div> 
-  <a href="https://instagram.com/lucianobrito.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatolucianobrito.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luciano-brito-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## My Contributions
 
- 
+<div>  
   ![Snake animation](https://github.com/lucianobritodev/lucianobritodev/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 ##
 
 ## About me
 
-
-Brazilian, married, born in 1991, passionate about technology. Graduated in Systems Analysis and Development from Paulist University (UNIP) in 2019. 
+Brazilian, married, born in 1991, passionate about technology. Graduated in Systems Analysis and Development from Paulist University (UNIP) in 2019.
 
 ##
 
 ## Contacts
 
-- [LinkeIn](https://www.linkedin.com/in/luciano-brito-dev)
-- [Gmail](mailto:lucianobrito.dev@gmail.com)
-- [Instagram](https://www.instagram.com/lucianobrito.dev)
-
+<div>
+  <a href="https://instagram.com/lucianobrito.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:contatolucianobrito.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luciano-brito-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ##
 
