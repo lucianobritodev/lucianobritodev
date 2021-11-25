@@ -28,8 +28,10 @@
 
 ## My Contributions
 
-<div>  
+<div> 
+    
   ![Snake animation](https://github.com/lucianobritodev/lucianobritodev/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ##
