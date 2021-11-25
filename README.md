@@ -4,8 +4,9 @@
 
 <div>
     <a href="https://github.com/lucianobritodev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianobritodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobritodev&layout=compact&langs_count=7&theme=dracula"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianobritodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobritodev&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Luciano-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -34,3 +35,25 @@
   ![Snake animation](https://github.com/lucianobritodev/lucianobritodev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+##
+
+## About me
+
+
+Brazilian, married, born in 1991, passionate about technology. Graduated in Systems Analysis and Development from Paulist University (UNIP) in 2019. 
+
+##
+
+## Contacts
+
+- [LinkeIn](https://www.linkedin.com/in/luciano-brito-dev)
+- [Gmail](mailto:lucianobrito.dev@gmail.com)
+- [Instagram](https://www.instagram.com/lucianobrito.dev)
+
+
+##
+
+## Donates
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=SX3L4N89M8ZRW)
