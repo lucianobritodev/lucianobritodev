@@ -63,3 +63,5 @@ Brazilian, married, born in 1991, passionate about technology. Graduated in Syst
 ## Donates
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=SX3L4N89M8ZRW)
+
+![ScreenShot QR Code](https://user-images.githubusercontent.com/29457352/149936768-9169a462-fff2-4081-b90f-3eb23e5e1ed8.jpeg)
