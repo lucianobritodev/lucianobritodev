@@ -32,7 +32,8 @@
     <img align="center" alt="C Sharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img align="center" alt=".Net Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="center" alt="Entity Framework" height="30" src="https://hungdoan.com/wp-content/uploads/2019/06/ef-core-perfomance.png" />
-    <img align="center" alt="NUnit" height="30" src="https://www.nilebits.com/wp-content/uploads/2023/09/Getting-Started-with-NUnit-and-C-A-Beginners-Guide-to-API-Test-Automation-1140x445.png.webp" />
+    <img align="center" alt="NUnit" height="30"
+ src="https://www.nilebits.com/wp-content/uploads/2023/09/Getting-Started-with-NUnit-and-C-A-Beginners-Guide-to-API-Test-Automation-1140x445.png.webp" />
     <img align="center" alt="NuGet" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" />
 </div>
 
@@ -105,8 +106,8 @@
 <br>
 
 # Donates
-  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=SX3L4N89M8ZRW)
+  [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=RXA28WZH3XF4E)
 
 <div style="text-align:center;">
-  <img src="https://user-images.githubusercontent.com/29457352/149936768-9169a462-fff2-4081-b90f-3eb23e5e1ed8.jpeg" alt="QR Code" width="270" height="310" style="align: middle; border-radius: 5px;"/>
+  <img src="https://github.com/user-attachments/assets/fae4f4c5-a0a0-4dab-97aa-22fe0ac1bdc5" alt="QR Code" height="310" style="border-radius: 5px;"/>
 </div>
