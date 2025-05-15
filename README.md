@@ -59,8 +59,8 @@
 <div style="display: inline_block">
     <img align="center" alt="Azure" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     <img align="center" alt="ActiveMQ" height="30" src="https://activemq.apache.org/assets/img/activemq_logo_black.png">
-    <img align="center" alt="RabbitMQ" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" />
-    <img align="center" alt="Sentry" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original-wordmark.svg" />
+    <img align="center" alt="RabbitMQ" height="30" src="https://miro.medium.com/v2/resize:fit:1400/1*RgoW112Yj8If5VM-_y0F-w.png" />
+    <img align="center" alt="Sentry" height="30" src="https://github.com/user-attachments/assets/5606356c-777d-4280-a3c2-ad15c1963558" />
     <img align="center" alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Kubernetes" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 </div>
@@ -74,7 +74,7 @@
     <img align="center" alt="GitHub" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
     <img align="center" alt="Azure DevOps" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
     <img align="center" alt="Jenkins" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-    <img align="center" alt="SonarQube" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" />
+    <img align="center" alt="SonarQube" height="30" src="https://github.com/user-attachments/assets/913466c1-9e10-450d-8c34-f2265158ed51" />
 </div>
 
 ### Integration
