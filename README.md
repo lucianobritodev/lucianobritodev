@@ -23,13 +23,11 @@
     <img align="center" alt="Hibernate" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
     <img align="center" alt="JUnit" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
     <img align="center" alt="Maven" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" />
-    <br />
     <img align="center" alt="TS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Nest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
     <img align="center" alt="TypeORM" height="30" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" />
     <img align="center" alt="Jest" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
     <img align="center" alt="NPM" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-    <br />
     <img align="center" alt="C Sharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img align="center" alt=".Net Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="center" alt="NodeJS" height="30" src="https://hungdoan.com/wp-content/uploads/2019/06/ef-core-perfomance.png" />
