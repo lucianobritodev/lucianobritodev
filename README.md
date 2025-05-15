@@ -91,7 +91,7 @@
 
 # My Contributions
 
-<div>
+<div style="display: inline_block">
   <img align="center" alt="Snake animation" src="https://github.com/lucianobritodev/lucianobritodev/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
