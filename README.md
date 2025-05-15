@@ -48,13 +48,15 @@
 </div>
 <br>
 
-### Frontend
+### Databases
 <div style="display: inline_block">
     <img align="center" alt="Postgres" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" alt="Oracle" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="FirebirdDB" height="30" src="https://www.edivaldobrito.com.br/wp-content/uploads/2019/10/como-instalar-o-banco-de-dados-firebird-no-ubuntu-e-derivados.jpg" />
     <img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img align="center" alt="Redis" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
+    <img align="center" alt="MongoDB" height="30" src="https://github.com/user-attachments/assets/44e2539d-94cf-4922-87a3-4196c3118546" />
 </div>
 <br>
 
