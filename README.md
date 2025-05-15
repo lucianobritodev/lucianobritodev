@@ -7,16 +7,16 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobritodev&layout=compact&langs_count=8&theme=dracula"/>
     </a>
 </div>
-
+<br>
 
 # My Contributions
 <div style="display: inline_block">
   <img align="center" alt="Snake animation" src="https://github.com/lucianobritodev/lucianobritodev/blob/output/github-contribution-grid-snake.svg" />
 </div>
-
+<br>
 
 # Technologies
-## Backend
+### Backend
 <div style="display: inline_block">
     <br>
     <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -39,7 +39,7 @@
 </div>
 <br>
 
-## Frontend
+### Frontend
 <div style="display: inline_block">
     <img align="center" alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
     <img align="center" alt="RxJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
@@ -49,7 +49,7 @@
 </div>
 <br>
 
-## Frontend
+### Frontend
 <div style="display: inline_block">
     <img align="center" alt="Postgres" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" alt="Oracle" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -59,7 +59,7 @@
 </div>
 <br>
 
-## Cloud
+### Cloud
 <div style="display: inline_block">
     <img align="center" alt="Azure" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
     <img align="center" alt="ActiveMQ" height="30" src="https://activemq.apache.org/assets/img/activemq_logo_black.png">
@@ -70,7 +70,7 @@
 </div>
 <br>
 
-## DevOps
+### DevOps
 <div style="display: inline_block">
     <img align="center" alt="Bash" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
     <img align="center" alt="Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -83,7 +83,7 @@
 </div>
 <br>
 
-## Integration
+### Integration
 <div style="display: inline_block">
     <img align="center" alt="Swagger" height="30" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*R36nHDnQ9i7vizbSJqTb1g.png" />
     <img align="center" alt="Apache Camel" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Apache_Camel_Logo.svg/1200px-Apache_Camel_Logo.svg.png" />
