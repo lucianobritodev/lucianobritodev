@@ -30,7 +30,7 @@
     <img align="center" alt="NPM" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     <img align="center" alt="C Sharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img align="center" alt=".Net Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-    <img align="center" alt="NodeJS" height="30" src="https://hungdoan.com/wp-content/uploads/2019/06/ef-core-perfomance.png" />
+    <img align="center" alt="Entity Framework" height="30" src="https://hungdoan.com/wp-content/uploads/2019/06/ef-core-perfomance.png" />
     <img align="center" alt="NUnit" height="30" src="https://www.nilebits.com/wp-content/uploads/2023/09/Getting-Started-with-NUnit-and-C-A-Beginners-Guide-to-API-Test-Automation-1140x445.png.webp" />
     <img align="center" alt="NuGet" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" />
 </div>
