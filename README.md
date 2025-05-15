@@ -4,7 +4,8 @@
 <div>
     <a href="https://github.com/lucianobritodev">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianobritodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobritodev&layout=compact&langs_count=8&theme=dracula"/>
+      <img height
+="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobritodev&layout=compact&langs_count=8&theme=dracula"/>
     </a>
 </div>
 <br>
@@ -89,7 +90,9 @@
 
 # About me
 <div style="display: inline_block">
-    Brazilian, married, born in 1991, passionate about technology. Graduated in Systems Analysis and Development from Paulist University (UNIP) in 2019.
+    <p>I'm Luciano Brito, Systems Analysis and Development graduation in 2019 from Paulista University (UNIP), and software architecture postgraduation in 2023 from Infnet Institute. I've vast knowledge in web applications development always using best practices and market standards.</p>
+    <p>I've solid knowledge in design, architecture and modeling of applications, SOLID Principles and Design Patterns. Vast knowledge in BDD, DDD, Clean Code, Port and Adapters, MVC, microservices, ReST, SOAP and messenging technologies. Experience in Fullstack Development using Java (7, 8, 11, 17 and 21), Spring (Boot, Data, Security, Batch and Cloud), JavaEE/JakartaEE, Angular (6, 8, 12, 14, 16 and 17), JPA/Hibernate, Oracle, Postgres, Firebird, MySQL, JBOSS EAP (6, 7, Wildfly, Tomcat, NGinx, VCS Git, GitHub, GitLab and Azure DevOps. Experience in agile methodologies such as Scrum and Kanban.</p>
+    <p>I'm passionate about technology, infrastructure, full cicle development and cloud. I try to keep focused and always updated with the technologies demanded in the market.</p>
 </div>
 <br>
 
