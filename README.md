@@ -36,7 +36,6 @@
     <img align="center" alt="NUnit" height="30" src="https://www.nilebits.com/wp-content/uploads/2023/09/Getting-Started-with-NUnit-and-C-A-Beginners-Guide-to-API-Test-Automation-1140x445.png.webp" />
     <img align="center" alt="NuGet" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original-wordmark.svg" />
 </div>
-<br>
 
 ### Frontend
 <div style="display: inline_block">
@@ -46,19 +45,17 @@
     <img align="center" alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
     <img align="center" alt="Sass" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
-<br>
 
 ### Databases
 <div style="display: inline_block">
     <img align="center" alt="Postgres" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
     <img align="center" alt="Oracle" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
     <img align="center" alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="FirebirdDB" height="30" src="https://www.edivaldobrito.com.br/wp-content/uploads/2019/10/como-instalar-o-banco-de-dados-firebird-no-ubuntu-e-derivados.jpg" />
+    <img align="center" alt="FirebirdDB" height="30" src="https://github.com/user-attachments/assets/e6184b5d-6df2-4551-a9c5-53f6f2760691" />
     <img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
     <img align="center" alt="Redis" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
-    <img align="center" alt="MongoDB" height="30" src="https://github.com/user-attachments/assets/44e2539d-94cf-4922-87a3-4196c3118546" />
+    <img align="center" alt="DataGrid" height="30" src="https://github.com/user-attachments/assets/d7c96abc-3885-40bd-ac17-873a71de6610" />
 </div>
-<br>
 
 ### Cloud
 <div style="display: inline_block">
@@ -69,7 +66,6 @@
     <img align="center" alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Kubernetes" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 </div>
-<br>
 
 ### DevOps
 <div style="display: inline_block">
@@ -82,7 +78,6 @@
     <img align="center" alt="Jenkins" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
     <img align="center" alt="SonarQube" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-plain-wordmark.svg" />
 </div>
-<br>
 
 ### Integration
 <div style="display: inline_block">
