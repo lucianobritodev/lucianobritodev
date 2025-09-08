@@ -20,6 +20,7 @@
 ### Backend
 <div style="display: inline_block">
     <img align="center" alt="Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img align="center" alt="JaKartaEE" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jakarta_ee_logo_schooner_color_horizontal_default.svg/1200px-Jakarta_ee_logo_schooner_color_horizontal_default.svg.png" />
     <img align="center" alt="Spring" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
     <img align="center" alt="Hibernate" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
     <img align="center" alt="JUnit" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
